@@ -1,0 +1,25 @@
+html,body{
+  font-family:"Lobster",Times New Roman;
+  text-align:center;
+  background-color:black;
+  color:white;
+}
+img{
+  max-width:100%;
+  display:block;
+  height:auto;
+  marigin:auto;
+  text-align:center;
+}
+#img-caption{
+  background-color:black;
+  color:white;
+  
+}
+#img-div{
+  marigin:-5px;
+  marigin-top:20px;
+  width:100%;
+
+  
+}
